@@ -1,0 +1,361 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:03.120
+[Music]
+
+00:00:08.830 --> 00:00:14.050
+Hey everybody! My name is Oliver and
+you're watching the first of hopefully
+
+00:00:14.050 --> 00:00:18.279
+many videos about H5P that I am creating
+and today I'd like to answer the
+
+00:00:18.279 --> 00:00:23.560
+question: "What is H5P?" So, if you already
+know the answer to that feel free to
+
+00:00:23.560 --> 00:00:27.579
+skip this video, but if you don't, hang in
+a second - well probably 5 to 10 minutes -
+
+00:00:27.579 --> 00:00:33.579
+and we'll see. So, what you see is
+the website of H5P that you can find at
+
+00:00:33.579 --> 00:00:40.780
+h5p.org and it says: create, share
+and reuse interactive html5 content in
+
+00:00:40.780 --> 00:00:45.280
+your browser - which is pretty abstract,
+right? Luckily, there's a section
+
+00:00:45.280 --> 00:00:50.829
+called "examples and downloads" and I can
+use it to show you what H5P is instead
+
+00:00:50.829 --> 00:00:58.239
+of answering the question what H5P is.
+It looks like this and contains a list
+
+00:00:58.239 --> 00:01:03.789
+of so-called content types which together form H5P, and I will not show you
+
+00:01:03.789 --> 00:01:08.950
+everything in detail, but I'll have a
+look at, yeah, probably 3 content types and
+
+00:01:08.950 --> 00:01:15.010
+we could start with "dialog cards" maybe.
+This is it.
+
+00:01:15.010 --> 00:01:18.190
+Um, if you learn a language you will
+probably know the technique of using
+
+00:01:18.190 --> 00:01:23.380
+flashcards where you write a word on
+top of a flashcard and the translation
+
+00:01:23.380 --> 00:01:28.390
+at the back side of the flashcard and
+then you have a look at the word and try
+
+00:01:28.390 --> 00:01:32.940
+to guess or to know the correct
+translation. And you can do that as well.
+
+00:01:32.940 --> 00:01:38.020
+Maybe you're a teacher you could create
+a deck of flashcards here, but you have
+
+00:01:38.020 --> 00:01:44.080
+many many more options in contrast to
+paper flashcards. So, as you can see, you
+
+00:01:44.080 --> 00:01:49.720
+can add an image which is pretty nice,
+and we also have a button which can play
+
+00:01:49.720 --> 00:01:55.360
+a sound sample. So, if I click it, it
+should read "Arándanos azules" I
+
+00:01:55.360 --> 00:02:04.810
+don't know, I don't speak Spanish.
+Let's hear ... OK, not even close, but luckily
+
+00:02:04.810 --> 00:02:10.509
+I know that those are blueberries and we
+can turn the card ... and they are
+
+00:02:10.509 --> 00:02:15.280
+blueberries. And you can go over to the
+next card and the next card ... And as
+
+00:02:15.280 --> 00:02:19.570
+teacher, you could for example create a
+deck of several cards that your students
+
+00:02:19.570 --> 00:02:25.260
+can use to learn a language.
+And if you wonder: "Okay, I can't award points
+
+00:02:25.260 --> 00:02:30.180
+and students don't have to enter the
+correct translation." - there's also a
+
+00:02:30.180 --> 00:02:33.570
+content type which can do that which is
+called flashcards. And I invite you to
+
+00:02:33.570 --> 00:02:39.600
+have a look at that yourself.
+I'll head back to the list of content types.
+
+00:02:39.600 --> 00:02:46.560
+And which should we have a look at next? Yeah,
+
+00:02:46.560 --> 00:02:54.990
+let's take "image hotspots". This one which is probably my favorite content type
+
+00:02:54.990 --> 00:03:01.080
+although it's pretty simple actually. You
+can add an image in the background and
+
+00:03:01.080 --> 00:03:07.290
+then you can you define some hotspots over here. And if you click on them you get
+
+00:03:07.290 --> 00:03:10.860
+some more information. Right here, a
+window swipes in from the right and
+
+00:03:10.860 --> 00:03:21.840
+contains some text. Oh, yeah, this is better.
+Yeah, so as you can see these windows can
+
+00:03:21.840 --> 00:03:26.040
+also contain videos and you could also
+put more text on top if you like to - or
+
+00:03:26.040 --> 00:03:32.160
+maybe images. That's possible and you can really use it, this content type, for
+
+00:03:32.160 --> 00:03:36.959
+giving great presentations
+which is really cool. Well let's head
+
+00:03:36.959 --> 00:03:45.090
+back to the example page ... and now we'll
+have a look at the most famous content type
+
+00:03:45.090 --> 00:03:52.140
+which is called "interactive video".
+Let's have a look. If you've taken some
+
+00:03:52.140 --> 00:03:57.209
+online courses lately, you'll probably
+have seen something like that, but maybe
+
+00:03:57.209 --> 00:04:03.450
+we should just hit that play button here
+below and see what happens. The video
+
+00:04:03.450 --> 00:04:08.050
+starts, of course ... Something pops up but I'll skip that.
+
+00:04:08.050 --> 00:04:17.000
+I'll wait for next one ... which says multiple choice quiz. And obviously we can put
+
+00:04:17.000 --> 00:04:21.979
+multiple choice quizzes on top of
+videos with H5P. So, there's a
+
+00:04:21.979 --> 00:04:25.550
+strawberry. We can check that and it's
+correct.
+
+00:04:25.550 --> 00:04:30.229
+Let's continue. And we can jump to the
+next one
+
+00:04:30.229 --> 00:04:36.290
+actually. It's similar, like a
+multiple-choice quiz, I guess. I can see
+
+00:04:36.290 --> 00:04:41.330
+blueberries and I know that was a
+strawberry before, so it's probably
+
+00:04:41.330 --> 00:04:48.340
+correct and it is and we can continue ...
+and we can also jump to the third one
+
+00:04:48.340 --> 00:04:55.120
+which is called "fill in the blanks" and
+that's a cloze. So we have to type in
+
+00:04:55.120 --> 00:05:00.770
+the correct solution which will be
+blueberries in this case and we'll, yeah
+
+00:05:00.770 --> 00:05:06.620
+we'll stick with that. We check. As you
+can see we could try again because the
+
+00:05:06.620 --> 00:05:11.120
+solution was not completely correct and
+we could have a look at the solution and
+
+00:05:11.120 --> 00:05:17.930
+as a teacher, we have many options that
+we can configure to adapt the content type
+
+00:05:17.930 --> 00:05:23.240
+to our needs. For example, what should happen if I answer incorrectly? Should I go back
+
+00:05:23.240 --> 00:05:27.680
+to the start of the video? Should I go to
+a different position? All that's possible.
+
+00:05:27.680 --> 00:05:32.960
+Well, I guess that's stuff for three other
+videos which I might creat, but not
+
+00:05:32.960 --> 00:05:39.229
+right now. So, we were ... Let's stop that. And, oh, maybe we could go back to this page
+
+00:05:39.229 --> 00:05:48.260
+just to see the examples. So, now
+you've seen what H5P is, but why should
+
+00:05:48.260 --> 00:05:52.970
+you use it and what are your benefits?
+And I can only give you my top five
+
+00:05:52.970 --> 00:05:59.360
+reasons. Other people may have others, but yeah, let's let's go. First of all, it is
+
+00:05:59.360 --> 00:06:03.949
+really easy to use. As a student I don't
+have to read a manual to interact with
+
+00:06:03.949 --> 00:06:07.970
+those content types to answer the
+quizzes and questions. And also as a
+
+00:06:07.970 --> 00:06:11.270
+teacher I don't have to read a manual to
+create those. It's really really simple ...
+
+00:06:11.270 --> 00:06:18.820
+most of the time. H5P is free to use, so
+you really don't have to pay anything -
+
+00:06:18.820 --> 00:06:23.020
+not even as a company. You can create
+stuff with H5P and include it in your
+
+00:06:23.020 --> 00:06:28.180
+products and you don't have to pay
+royalties or anything like that, which is
+
+00:06:28.180 --> 00:06:34.090
+probably pretty cool for you if you're a
+company. Then, H5P is not only free to
+
+00:06:34.090 --> 00:06:39.820
+use, but it's open to use, because it's
+open-source software. So if you could
+
+00:06:39.820 --> 00:06:43.300
+code a little bit like myself, then you
+can have a look at the source code and
+
+00:06:43.300 --> 00:06:48.070
+change it to your needs, and you can also
+contribute to the development of new
+
+00:06:48.070 --> 00:06:52.660
+features and content types which is
+really nice because it makes H5P kind of
+
+00:06:52.660 --> 00:06:57.760
+a community project and, yeah, that
+differentiates it a little bit from
+
+00:06:57.760 --> 00:07:02.620
+commercial products, I guess. Then, my
+reason number four is: You really don't
+
+00:07:02.620 --> 00:07:06.690
+have to install any special software on
+your computer. You just need a browser and
+
+00:07:06.690 --> 00:07:12.370
+this is valid for desktop systems and
+mobile systems as well. So, you can use
+
+00:07:12.370 --> 00:07:16.810
+maybe Chrome on your desktop browser and you can also use Safari
+
+00:07:16.810 --> 00:07:23.410
+on your iPhone or whatever and it works. So, you can create content once and it runs
+
+00:07:23.410 --> 00:07:28.600
+anywhere which is pretty cool. And
+finally, my reason number five is:
+
+00:07:28.600 --> 00:07:32.740
+You can take H5P where you need it. So,
+you can create stuff here on this
+
+00:07:32.740 --> 00:07:39.400
+website if you like to, but you can also
+get a plugin for a moodle, WordPress or
+
+00:07:39.400 --> 00:07:45.160
+Drupal and install it there, you can use it
+there, and it doesn't matter where you
+
+00:07:45.160 --> 00:07:49.300
+create content. You can embed it
+elsewhere, so you can create it here for
+
+00:07:49.300 --> 00:07:53.890
+example, and take it then to an HTML page and embed the stuff there, so you
+
+00:07:53.890 --> 00:07:58.300
+don't even see this page. And you can
+download the content, maybe from this
+
+00:07:58.300 --> 00:08:02.290
+system and then you go to your moodle
+system where you have the plugin, upload it there
+
+00:08:02.290 --> 00:08:06.520
+and use it there. And you don't have to
+change anything which is really great. So,
+
+00:08:06.520 --> 00:08:13.090
+um, I think I'm close to my my ten
+minutes limit, so let's wrap it up for
+
+00:08:13.090 --> 00:08:18.760
+today. I hope you like H5P, um, maybe you
+just head over here to h5p.org, give it a
+
+00:08:18.760 --> 00:08:24.400
+shot, and yeah, that's it. And also, if you
+like, you can watch my videos, maybe
+
+00:08:24.400 --> 00:08:29.110
+subscribe to this channel. I'm going to
+create some more tutorials and, yeah,
+
+00:08:29.110 --> 00:08:35.880
+related videos and stuff. But anyway. Enjoy H5p! Take care. Bye-bye!
+
