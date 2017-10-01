@@ -1,0 +1,146 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:08.750 --> 00:00:16.049
+Hallo an alle! Ich bin Oliver und du siehst ein weiteres Video über H5P. Heute
+
+00:00:16.049 --> 00:00:20.970
+will ich dir helfen, wenn du H5P-Inhalte in deine Webseite einbetten willst, aber
+
+00:00:20.970 --> 00:00:26.430
+einfach nichts angezeigt wird. Es gibt dafür tatsächlich mehrere Ursachen, aber ich
+
+00:00:26.430 --> 00:00:32.160
+werde die vermutlich gängigste ansprechen. Sie heißt "mixed content". Aber
+
+00:00:32.160 --> 00:00:34.980
+zuerst schauen wir uns an,
+wie es eigentlich laufen sollte.
+
+00:00:34.980 --> 00:00:39.660
+Okay. Nehmen wir an, du möchtest diesen Inhalt hier benutzen, dann kannst du ihn natürlich
+
+00:00:39.660 --> 00:00:43.500
+herunterladen und auf deinem System hochladen, aber sagen wir einfach, das ginge nicht.
+
+00:00:43.500 --> 00:00:46.560
+Eine weitere Option ist dann diese:
+
+00:00:46.560 --> 00:00:53.160
+Wir klicken auf "embed" and wir sehen einen Codeschnipsel, den wir kopieren. Danach
+
+00:00:53.160 --> 00:00:58.320
+können wir zu unserer Website springen. Das ist meine, und du siehst womöglich,
+
+00:00:58.320 --> 00:01:01.680
+dass es sich um WordPress handelt. Aber das spiel keine Rolle. Du kannst benutzen, was du
+
+00:01:01.680 --> 00:01:07.020
+magst, solange du HTML-Code einbetten kannst. In Wordpress würdest du nun
+
+00:01:07.020 --> 00:01:11.610
+auf "Text" klicken und einfach den kopierten Schnipsel einfügen. Und dann
+
+00:01:11.610 --> 00:01:18.810
+können wir mal schauen. Läuft. Großartig. Und nun gehen wir zu einer anderen
+
+00:01:18.810 --> 00:01:24.600
+Website. Springen wie also dorthin, und wie du sehen kannst,
+
+00:01:24.600 --> 00:01:30.330
+enthält sie auch H5P-Inhalte, den wir nutzen könnten. Also schnappen wir uns den Codeschnipsel
+
+00:01:30.330 --> 00:01:37.260
+und gehen zurück auf die andere Website. Da sind wir auch schon. Probieren wir
+
+00:01:37.260 --> 00:01:47.729
+den Schnipsel mal aus ... und es wird nichts angezeigt. Nur die weiße Fläche.
+
+00:01:47.729 --> 00:01:54.390
+Was ist die Ursache? Sie heißt "mixed content", wie ich bereits sagte. Tja, und
+
+00:01:54.390 --> 00:02:00.659
+was ist "mixed content"? Um diese Frage zu beantworten, springen wir mal zurück zum Code.
+
+00:02:00.659 --> 00:02:05.700
+Da ist er. Und nun kannst du hier einen kleinen
+
+00:02:05.700 --> 00:02:12.959
+Unterschied sehen. Hier haben wir HTTPS, und hier unten haben wir HTTP.
+
+00:02:12.959 --> 00:02:17.750
+Und das ist das Problem. Das "s" deutet darauf hin, dass die Verbindung hier
+
+00:02:17.750 --> 00:02:23.570
+sicher ist, das heißt die übermittelten Daten können von anderen nicht gelesen oder
+
+00:02:23.570 --> 00:02:28.940
+geändert werden. Hier unten schon. Das ist nicht der gemischte Teil, der kommt
+
+00:02:28.940 --> 00:02:36.680
+jetztl. Was versuchen wir zu machen? Wir haben sicheren Inhalt, und hier unten versuchen wir,
+
+00:02:36.680 --> 00:02:42.320
+ 
+
+00:02:42.320 --> 00:02:48.140
+unsicheren Inhalt einzubinden. Das mögen Browser nicht, den, was ist das Problem?
+
+00:02:48.140 --> 00:02:52.670
+Jemand könnte HTTPS eintippen und denken, er sei auf einer gesicherten Website.
+
+00:02:52.670 --> 00:02:58.370
+Und dann gibt er vielleicht seine Kreditkartenummer ein, und würde ich sagen,
+
+00:02:58.370 --> 00:03:04.900
+das sind sensible Informationen, und, falls da unsicherer Inhalt eingebunden wird, dann
+
+00:03:04.900 --> 00:03:10.250
+geht die Kreditkartennummer womöglich wer-weiß-wo hin. Darum mögen
+
+00:03:10.250 --> 00:03:16.340
+Browser das nicht. Und, tja, was kannst du tun? Wir könnten versuchen, per Hand
+
+00:03:16.340 --> 00:03:22.640
+ein "s" einzufügen, aber lass dir sagen, das wird in den meisten Fällen nichts bringen,
+
+00:03:22.640 --> 00:03:25.520
+da der Server dich auch vorher wohl weitergeleitet hätte auf eine
+
+00:03:25.520 --> 00:03:30.050
+sichere Leitung. Ja. Sieht ein wenig anders aus, aber läuft auch nicht.
+
+00:03:30.050 --> 00:03:36.560
+Und okay, dann gibt's da etwas namens "Proxy", den du bauen könntest, aber da wird es
+
+00:03:36.560 --> 00:03:42.320
+haarig und das will ich dir nicht zumuten, wenn es nicht wirklich nötig ist. Und dann
+
+00:03:42.320 --> 00:03:46.580
+könntest du noch etwas machen, wenn es dein Server ist, von dem du etwas einbetten
+
+00:03:46.580 --> 00:03:52.820
+möchtest. Aktualisiere ihn auf SSL, bringe also deinem Server, deinem Apache oder nginx
+
+00:03:52.820 --> 00:03:58.790
+oder was auch immer du benutzt bei, SSL zu sprechen, damit er mit dem
+
+00:03:58.790 --> 00:04:07.100
+HTTPS-Protokoll, nee, das wäre doppelt. Es ist, es ist das sichere Hypertext-Transfer-Protokoll.
+
+00:04:07.100 --> 00:04:11.570
+So ist's richtig. Und es ist nicht so schwierig. Ich packe ein paar Links in die Beschreibung.
+
+00:04:11.570 --> 00:04:15.200
+Es gibt etwa einen Dienst namens "Let's Encrypt", der ist recht simpel und kostenlos, und
+
+00:04:15.200 --> 00:04:20.359
+vielleicht möchtest du den benutzen. Es ist also kein Problem von H5P, sondern ein generelles
+
+00:04:20.359 --> 00:04:25.340
+Internet-Probem. Also lasst uns zum Ende kommen. Viel Spaß mit H5P. Macht's gut.
+
+00:04:25.340 --> 00:04:27.880
+Tschüss!
+

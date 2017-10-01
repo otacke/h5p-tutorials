@@ -1,0 +1,209 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:08.059 --> 00:00:13.129
+Hallo da draußen! Hier spricht Oliver, und du siehst ein kurzes Tutorial dazu, wie du
+
+00:00:13.129 --> 00:00:18.800
+etwas wie das hier erstellen kannst und bei H5P "Image Hotspots" heißt. Aber bevor
+
+00:00:18.800 --> 00:00:21.470
+wir uns ansehen, wie das geht,
+
+00:00:21.470 --> 00:00:26.029
+sollten wir und echte Beispiele ansehen. 
+Dieses Beispiel hier stammt
+
+00:00:26.029 --> 00:00:30.559
+aus einem Online-Kurs über dänische und deutsche Geschichte, und hier unten haben wir die
+
+00:00:30.559 --> 00:00:35.780
+Image Hotspots. Wir können und das auch im Vollbild anschauen und sehen dann eine Karte mit einigen
+
+00:00:35.780 --> 00:00:39.170
+Informationen über die Ergebnisse eines Volksentscheids, bei dem die Leute entscheiden
+
+00:00:39.170 --> 00:00:45.600
+mussten, ob sie Dänen oder Deutsche sein wollen. Tja, wie du erwartest, können wir auf die
+
+00:00:45.620 --> 00:00:52.159
+Hotspots klicken. Ein Bild erscheint, und einige Informationen tauchen auf, ja.
+
+00:00:52.159 --> 00:00:57.199
+Ziemlich simpel. Ich habe aber auch noch ein Beispiel das interessanter sein könnte
+
+00:00:57.199 --> 00:01:02.030
+für dich. Werfen wir da einen Blick drauf. Das hier ist es, und ich denke das ist ein sehr
+
+00:01:02.030 --> 00:01:06.440
+einfallsreicher Einsatz von Image Hotspots mit H5P, der tatsächlich von einer meiner Kolleginnen
+
+00:01:06.440 --> 00:01:11.330
+namens Anja Lorenz erstellt wurde. Sie hat auf einer Konferenz einen Vortrag
+
+00:01:11.330 --> 00:01:14.899
+gehalten und dachte sich: "Vielleicht sollte ich heute mal etwas anderes machen."
+
+00:01:14.899 --> 00:01:19.689
+Sie hatte diesen Einfall hier, aber wir sollten bestimmt erst einmal auf das Vollbild umschalten.
+
+00:01:19.689 --> 00:01:26.390
+Dich mag das an die Fernsehsendung Jeopardy erinnern, und dann liegst du richtig.
+
+00:01:26.390 --> 00:01:31.520
+Also, Anja sagte: "Ich habe so viel zu erzählen, aber wir haben gar nicht genügend Zeit. Warum sucht ihr
+
+00:01:31.520 --> 00:01:36.079
+euch nicht aus, woran ihr interessiert seid? Womöglich OER, die Abkürzung für
+
+00:01:36.079 --> 00:01:42.409
+Open Educational Resources, und dann sagt ihr mir noch eine Zahl, vielleicht 100."
+
+00:01:42.409 --> 00:01:47.719
+Also sagt jemand "OER 100" und ich weiß, okay, sehen wir mal nach was sich dahinter verbirgt.
+
+00:01:47.719 --> 00:01:52.549
+Anja hat auf den Hotspot geklickt und in diesem Fall erschien ein Fenster mit
+
+00:01:52.549 --> 00:01:58.310
+einem kurzen Video, das sie wohl gezeigt und ein wenig erklärt hat.
+
+00:01:58.310 --> 00:02:04.369
+Wenn das abgehakt war, konnten die Leute zum Beispiel sagen: "Okay, nun nehmen wie OER 300."
+
+00:02:04.369 --> 00:02:11.300
+Vielleicht, ja, das hier ist etwas zu H5P, und ich vermute, sie hat erzählt, wie wir es auf unserer
+
+00:02:11.300 --> 00:02:15.320
+Plattform einsetzen. Tja, das wollte ich dir zeigen. Ziemlich einfallsreich, wie ich
+
+00:02:15.320 --> 00:02:20.700
+bereits gesagt habe. Aber gehen wir zurück und schauen mal, wie wir
+
+00:02:20.700 --> 00:02:25.830
+selbst so etwas erstellen können. Und da sind wir auch schon wieder bei h5p.org. Hier oben
+
+00:02:25.830 --> 00:02:32.280
+kannst du dich in dein Konto einloggen, und dann siehst du einen Knopf mit der Beschriftung
+
+00:02:32.280 --> 00:02:39.120
+"Create new content". Wenn du da draufklickst, öffnet sich der H5P Hub, in dem du auswählen kannst,
+
+00:02:39.120 --> 00:02:44.760
+welchen Inhaltstyp du erstellen willst. In unserem Fal Image Hotspots. Wir benutzen den
+
+00:02:44.760 --> 00:02:51.720
+und wir geben ihm den Titel "Katze und Hund". Für gewöhnlich beginnst du damit,
+
+00:02:51.720 --> 00:02:57.810
+einen Hintergrund hinzuzufügen. Das geht mit diesem Knopf hier. Und ich habe glücklicherweise
+
+00:02:57.810 --> 00:03:05.069
+ein Bild von einer Katze und einem Hund. Das fügen wir hinzu. Dieses Feld hier solltest du
+
+00:03:05.069 --> 00:03:09.599
+immer ausfüllen. Blinde Menschen -- oder deren Screen Reader -- benutzen das,
+
+00:03:09.599 --> 00:03:15.000
+um anzuzeigen, was auf den Bildern drauf ist. Wir können also eine kleine
+
+00:03:15.000 --> 00:03:24.120
+Beschreibung einfügen ... und dann wählen wir noch eine Farbe für den Hotspot. Ja, vielleicht etwas
+
+00:03:24.120 --> 00:03:28.739
+in Richtung Blau. Nehmen wir das. Und nun können wir anfangen, unsere
+
+00:03:28.739 --> 00:03:33.930
+Inhalte einzubauen. Wir können etwa mitten auf den Hund klicken und sagen:
+
+00:03:33.930 --> 00:03:40.410
+"Okay, hier soll mein Hotspot hin." Geben wir ihm auch noch einen Titel. Nehmen wir
+
+00:03:40.410 --> 00:03:47.750
+"HUND", und dann fügen wir mehr Inhalt dazu. Wir können zwischen Text, Video und
+
+00:03:47.750 --> 00:03:55.940
+Bildern wählen. Ja, fangen wir mit einem kurzen Text an.
+
+00:03:58.290 --> 00:04:05.010
+Und wenn wir den haben, können wir etwas anderes ergänzen, vielleicht noch ein
+
+00:04:05.010 --> 00:04:09.510
+Bild dazu. Und natürlich habe ich auch ein Bild von einem Hund.
+
+00:04:09.510 --> 00:04:16.859
+Ich habe einen Husky ausgewählt, weil ich die mag. Auch hier solltest du dieses
+
+00:04:16.859 --> 00:04:22.970
+Textfeld ausfüllen, damit blinde Menschen wissen, was das Bild zeigt. Machen wir das doch.
+
+00:04:22.970 --> 00:04:29.039
+Okay, das ist etwas ähnliches. Das ich der Schwebetext, kennst du doch, wenn du den Mauszeiger über einem
+
+00:04:29.039 --> 00:04:34.919
+Element fährst und dir mehr angezeigt wird. Überspringen wir das und wählen einen
+
+00:04:34.919 --> 00:04:42.180
+anderen Hotspot aus. Wir wolen schließlich auch einen für die Katze haben. Klicken wir sie an,
+
+00:04:42.180 --> 00:04:49.229
+oder, ja, vielleicht nehmen wir ihre Nase, und wir kommen wieder zur Überschrift.
+
+00:04:49.229 --> 00:04:56.039
+Hier könnten wir uns dazu entschließen, dass der Hotspot das ganze Fenster
+
+00:04:56.039 --> 00:05:00.210
+abdecken soll, das erscheint, wenn wir auf den Hotspot klicken.
+
+00:05:00.210 --> 00:05:06.660
+Setzen wir hier also einen Haken. Und nun können wir ein Video hinzufügen
+
+00:05:06.660 --> 00:05:21.270
+und, natürlich, habe ich vorbereitet ... Ich habe vorab ein Video gewählt. Un es, ach was ...
+
+00:05:21.270 --> 00:05:24.870
+Schaut's euch an. Und dann hast du noch ein paar Einstellungsmöglichkeiten zum, na,
+
+00:05:24.870 --> 00:05:30.360
+konfigurieren ... Der hier ist für den Videoplayer -- wie er aussieht. Und hier kannst du wählen,
+
+00:05:30.360 --> 00:05:37.979
+ob das Video automatisch startet oder in einer Endlosschleife läuft. Zugänglichkeit ist noch
+
+00:05:37.979 --> 00:05:43.919
+interessant, weil du Untertitel einfügen kannst. Das YouTube-Video hat vielleicht welche,
+
+00:05:43.919 --> 00:05:49.680
+da bin ich nicht sicher. Muss ich nachsehen. Aber, speichern wir das doch mal
+
+00:05:49.680 --> 00:05:55.849
+und werfen einen Blick darauf.
+
+00:05:57.290 --> 00:06:02.240
+Das haben wir erstellt. Das ist unser Inhaltstyp, unser Image Hotspot. Gehen wir zum Vollbild,
+
+00:06:02.240 --> 00:06:07.910
+der ist irgendwie immer netter, und wenn wir hier klicken, sollten wir das hier sehen.
+
+00:06:07.910 --> 00:06:12.710
+Wie wir es eingetippt haben: "HUND" als Titel. "Das ist ein Hund" als
+
+00:06:12.710 --> 00:06:18.080
+Beschreibungstext. Und darunter ein Bild von einem Husky. Wenn wir hier klicken, kommen wir zum Video,
+
+00:06:18.080 --> 00:06:25.790
+und wie wir es wollten, bedeckt es den ganzen Bildschirm. Gucken wir uns kurz
+
+00:06:25.790 --> 00:06:32.470
+Katzen an. Los! Okay ...
+
+00:06:32.470 --> 00:06:38.090
+Katzen sind nett. Wie auch immer, ich hoffe, euch hat das Video gefallen. Dann guckt doch auch mal
+
+00:06:38.090 --> 00:06:42.980
+in meinen Kanal, wo ihr noch mehr Videos über H5P findet. Hmm, ja. Das was soll ich noch sagen?
+
+00:06:42.980 --> 00:06:47.890
+Viel Spaß mit H5P! Lass es dir gut gehen. Tschüß!
+

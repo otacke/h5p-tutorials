@@ -1,0 +1,264 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:08.059 --> 00:00:13.129
+Hey everybody! This is Oliver and you are
+watching a brief tutorial on how to
+
+00:00:13.129 --> 00:00:18.800
+create something like this which is
+called image hotspots in H5P. But before
+
+00:00:18.800 --> 00:00:21.470
+we have a look at how we create
+something like this,
+
+00:00:21.470 --> 00:00:26.029
+let's have a look at some real world
+examples first. This example is taken
+
+00:00:26.029 --> 00:00:30.559
+from an online course about Danish and
+German history and down here we have the
+
+00:00:30.559 --> 00:00:35.780
+image hotspot and we can go to full
+screen and we can see a map which shows
+
+00:00:35.780 --> 00:00:39.170
+some information about the results of a
+referendum where people had to decide
+
+00:00:39.170 --> 00:00:45.600
+whether they want to be Danes or Germans.
+And, yeah, as you expect we can click on
+
+00:00:45.620 --> 00:00:52.159
+the hotspots. And some image pops up, and some information pops up, yeah.
+
+00:00:52.159 --> 00:00:57.199
+Pretty basic use. And I have one more
+example which might be more interesting
+
+00:00:57.199 --> 00:01:02.030
+for you, so let's have a look at that.
+This is it and I think it is a pretty
+
+00:01:02.030 --> 00:01:06.440
+inventive use of image hotspots in H5P
+and it was actually created by a
+
+00:01:06.440 --> 00:01:11.330
+colleague of mine called Anja Lorenz, um, she had to give a talk at a
+
+00:01:11.330 --> 00:01:14.899
+conference and she thought: "Maybe we can do something a little different today"
+
+00:01:14.899 --> 00:01:19.689
+and she came up with this, but of course
+we should go to the full screen first.
+
+00:01:19.689 --> 00:01:26.390
+And this may remind you of Jeopardy - the game show - and you're absolutely right.
+
+00:01:26.390 --> 00:01:31.520
+So, Anja said: "I have so much to talk about, but we don't have the time, so why don't
+
+00:01:31.520 --> 00:01:36.079
+you choose what you're interested in,
+maybe OER which is short for open
+
+00:01:36.079 --> 00:01:42.409
+educational resources and then you just
+give me a number, maybe hundred", and yeah
+
+00:01:42.409 --> 00:01:47.719
+so you would say "OER 100" and I
+know it's okay, let's look what's behind
+
+00:01:47.719 --> 00:01:52.549
+that and she would click on that hot spot
+and in this case a window would pop up
+
+00:01:52.549 --> 00:01:58.310
+which contains a short video, yeah, I guess she just played it and explained it a
+
+00:01:58.310 --> 00:02:04.369
+little bit afterwards, so when that was
+done people could say: "Okay, now let's say OER 300"
+
+00:02:04.369 --> 00:02:11.300
+maybe, and yeah, this is about H5P,
+and I guess she explained how we use it on
+
+00:02:11.300 --> 00:02:15.320
+our platform, and yeah, that's it, that's what I wanted to show you. It's pretty
+
+00:02:15.320 --> 00:02:20.700
+inventive as I said, yeah, but
+let's head back and see how we can
+
+00:02:20.700 --> 00:02:25.830
+create something like that ... And we're
+back at h5p.org. So, on top
+
+00:02:25.830 --> 00:02:32.280
+you can log into your account over here
+and there you have a button which is labeled
+
+00:02:32.280 --> 00:02:39.120
+"Create new content" and if you click on
+that the H5P Hub opens where you can choose the
+
+00:02:39.120 --> 00:02:44.760
+type of content that you want to create. In
+our case it's image hotspots. We use that
+
+00:02:44.760 --> 00:02:51.720
+one and we can give it a title and I'll
+call it "cat and dog". Typically you
+
+00:02:51.720 --> 00:02:57.810
+start with adding a background image
+which is this button here, and I have an
+
+00:02:57.810 --> 00:03:05.069
+image of a cat and a dog luckily, so we
+can add that. And you should always fill
+
+00:03:05.069 --> 00:03:09.599
+out this field because it's used by
+blind people or the screen readers that
+
+00:03:09.599 --> 00:03:15.000
+blind people use, which tells them what
+the image shows, so we can add a little
+
+00:03:15.000 --> 00:03:24.120
+description here ... and then we can choose a hotspot color. Yeah, maybe we use
+
+00:03:24.120 --> 00:03:28.739
+something blue-ish. Let's take that
+and then we can start to
+
+00:03:28.739 --> 00:03:33.930
+add our content. So, you can click on the
+center of the dog, for example, and say:
+
+00:03:33.930 --> 00:03:40.410
+"Okay, I want my my hotspot there" and
+yeah let's give it a title. Let's call it
+
+00:03:40.410 --> 00:03:47.750
+"DOG" and then we can add our content and we can choose between text video and
+
+00:03:47.750 --> 00:03:55.940
+images. Yeah, let's start with with a brief text
+
+00:03:58.290 --> 00:04:05.010
+and when we have our text we can also
+add something else, maybe, maybe we want an
+
+00:04:05.010 --> 00:04:09.510
+image and of course I have one of a dog
+as well over here.
+
+00:04:09.510 --> 00:04:16.859
+I chose a husky because I like them. And
+again you should fill all this alternative
+
+00:04:16.859 --> 00:04:22.970
+text field so blind people know what
+the image is showing. So, let's do that.
+
+00:04:22.970 --> 00:04:29.039
+Okay, this one's similar. This is the
+hover text which, you know, when you hover
+
+00:04:29.039 --> 00:04:34.919
+over an item it may show what's inside.
+Let's skip that and we'll choose another
+
+00:04:34.919 --> 00:04:42.180
+hotspot and of course we now want to do
+one for the cat. So we click on the cat
+
+00:04:42.180 --> 00:04:49.229
+or, yeah, maybe, well, you put it on the
+nose of the cat, um, and we can get the
+
+00:04:49.229 --> 00:04:56.039
+header again. Then we can decide that in
+this case the hotspot should cover or
+
+00:04:56.039 --> 00:05:00.210
+... the window that pops up
+when the hotspot is clicked should cover
+
+00:05:00.210 --> 00:05:06.660
+the entire background image. So, let's
+check that one. And now we add the video
+
+00:05:06.660 --> 00:05:21.270
+and, of course, I prepared ... I chose the
+video up front. And this ... but let's, let's
+
+00:05:21.270 --> 00:05:24.870
+have a look what this video shows. And
+you have some more options, like you can
+
+00:05:24.870 --> 00:05:30.360
+configure it ... This is about the video
+player -- how it looks. And here you can
+
+00:05:30.360 --> 00:05:37.979
+choose if the video should autoplay or
+loop, yeah. Accessibility might be
+
+00:05:37.979 --> 00:05:43.919
+interesting, because you can add captions
+if you like to. The YouTube video might
+
+00:05:43.919 --> 00:05:49.680
+have them, I'm not sure. I'll have a look
+at it surely. But let's, um, save our
+
+00:05:49.680 --> 00:05:55.849
+creation and take a look.
+
+00:05:57.290 --> 00:06:02.240
+That's what we created. That is our
+content type, our image hotspot. So, let's
+
+00:06:02.240 --> 00:06:07.910
+go to full screen which is always nicer
+and if we click here, we should see this
+
+00:06:07.910 --> 00:06:12.710
+one. As we typed it in: "Dog" as the header, "This is a dog" as text
+
+00:06:12.710 --> 00:06:18.080
+description and below the image of the
+husky. And if we click here, we'll get our
+
+00:06:18.080 --> 00:06:25.790
+video and as we wanted it, it's covering
+the whole screen. So, yeah, let's have a
+
+00:06:25.790 --> 00:06:32.470
+look at the cats for a brief period.
+Here it is. Okay
+
+00:06:32.470 --> 00:06:38.090
+Cats are nice. Anyway, I hope you liked
+this video and if you did, have a look at
+
+00:06:38.090 --> 00:06:42.980
+my channel where you can find more
+videos about H5P, um, yeah, well, what's
+
+00:06:42.980 --> 00:06:47.890
+left to say? Enjoy H5P! Take care.
+Bye-bye.
+

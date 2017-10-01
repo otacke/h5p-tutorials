@@ -1,0 +1,179 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:08.750 --> 00:00:16.049
+Hey everybody! This is Oliver and you are
+watching another video about H5P. Today
+
+00:00:16.049 --> 00:00:20.970
+I want to help you if you try to embed
+H5P content in your website but it
+
+00:00:20.970 --> 00:00:26.430
+simply won't show. And there actually may be multiple reasons for that, but I'm
+
+00:00:26.430 --> 00:00:32.160
+going to address the most common one, I
+guess. And it's called mixed content. So
+
+00:00:32.160 --> 00:00:34.980
+first let's have a look at how it is
+supposed to work.
+
+00:00:34.980 --> 00:00:39.660
+Okay, so let us assume that you want to
+use this content over here and of course
+
+00:00:39.660 --> 00:00:43.500
+you could download it and upload it to
+your system, but let's say that's not
+
+00:00:43.500 --> 00:00:46.560
+possible. So the other option that we have is:
+
+00:00:46.560 --> 00:00:53.160
+We can click on embed and we see a snippet of code and we can copy it. And if we've
+
+00:00:53.160 --> 00:00:58.320
+done that we can head over to our
+website. This is mine and you may notice
+
+00:00:58.320 --> 00:01:01.680
+that this is a WordPress system. But it
+really doesn't matter, you can use
+
+00:01:01.680 --> 00:01:07.020
+whatever you like as long as you can embed some HTML code. And in WordPress
+
+00:01:07.020 --> 00:01:11.610
+you would click on "Text" and then you
+simply paste the snippet that we copied
+
+00:01:11.610 --> 00:01:18.810
+before and then we can have a look ... and
+it works, which is great. And now we head
+
+00:01:18.810 --> 00:01:24.600
+over to a different website. Let's jump
+over there and as you can see it also
+
+00:01:24.600 --> 00:01:30.330
+contains some H5P content that we might want to use. So let's also grab this code
+
+00:01:30.330 --> 00:01:37.260
+snippet and then head back over to the
+other website. There we are, and now let's
+
+00:01:37.260 --> 00:01:47.729
+also try this one here just below ... and it
+doesn't show. Just the white area. So
+
+00:01:47.729 --> 00:01:54.390
+what's the reason? The reason is called
+mixed content as I said before and, well,
+
+00:01:54.390 --> 00:02:00.659
+what is mixed content? And to answer that question let's go back to the code. There
+
+00:02:00.659 --> 00:02:05.700
+it is. And now you can see there's a little
+
+00:02:05.700 --> 00:02:12.959
+difference over here. Here we have HTTPS and down here we have HTTP and that's
+
+00:02:12.959 --> 00:02:17.750
+actually the problem. The "s"
+indicates that the connection over here
+
+00:02:17.750 --> 00:02:23.570
+is secured so all the data that's
+transferred can't be read or modified by
+
+00:02:23.570 --> 00:02:28.940
+someone else, and down here it could.
+That's not the mixed part, the mixed part comes
+
+00:02:28.940 --> 00:02:36.680
+in here. So, if we look at the URL of my
+website, it also has HTTPS in front, so
+
+00:02:36.680 --> 00:02:42.320
+what are we're trying to do? We have the
+secure content and down here we try to
+
+00:02:42.320 --> 00:02:48.140
+include some insecure content and
+browsers don't like that, because, what's
+
+00:02:48.140 --> 00:02:52.670
+the problem? So, maybe someone typed in HTTPS and thinks he's on a secure
+
+00:02:52.670 --> 00:02:58.370
+website and maybe he wants to type in
+his credit card number, which I'd say is
+
+00:02:58.370 --> 00:03:04.900
+sensitive information, and, um, if
+there's insecure content, then this
+
+00:03:04.900 --> 00:03:10.250
+credit card number might go who knows
+where. So, that's problem. That's why
+
+00:03:10.250 --> 00:03:16.340
+browsers don't like that. And well, what
+can you actually do? We could try to add
+
+00:03:16.340 --> 00:03:22.640
+an "s" manually over here, but let me tell
+you in most cases this won't work
+
+00:03:22.640 --> 00:03:25.520
+because the server would have forwarded
+you anyway
+
+00:03:25.520 --> 00:03:30.050
+to a secure line. And yeah. Looks a little
+different, but it doesn't work as well.
+
+00:03:30.050 --> 00:03:36.560
+And okay, there is some stuff called
+"proxy" that you could create, but that's
+
+00:03:36.560 --> 00:03:42.320
+really tricky and I don't, well yeah overburden you if that's not really necessary. And
+
+00:03:42.320 --> 00:03:46.580
+the other thing you could and should do if
+it's your server you're trying to embed
+
+00:03:46.580 --> 00:03:52.820
+something from, um, just update it to SSL.
+So, teach the server, your Apache or nginx
+
+00:03:52.820 --> 00:03:58.790
+or whatever you're using, to speak SSL, um, so that it can handle the
+
+00:03:58.790 --> 00:04:07.100
+HTTPS protocol, well basically that's double ... It's the, it's Secure Hypertext Transfer Protocol. That's the
+
+00:04:07.100 --> 00:04:11.570
+correct one. And it's not that difficult.
+I'll put some links in the description.
+
+00:04:11.570 --> 00:04:15.200
+There's a service called "Let's Encrypt"
+which is pretty simple and free, and
+
+00:04:15.200 --> 00:04:20.359
+maybe you want to use it, so it's not a
+problem of H5P but a general internet
+
+00:04:20.359 --> 00:04:25.340
+problem, I guess. So let's wrap up
+this episode. Enjoy H5P. Take care.
+
+00:04:25.340 --> 00:04:27.880
+Bye-bye!
+
